@@ -1,0 +1,10 @@
+* spellcheck
+
+Peter Norvig's spell corrector for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/RobBlackwell/spellcheck.git   |
+| commit  | f2d2e74  |
+| systems | spellcheck |
+|---------+-------------------------------------------|
+
